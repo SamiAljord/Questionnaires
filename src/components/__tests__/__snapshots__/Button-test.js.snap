@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#13191E",
+      "borderRadius": 24,
+      "justifyContent": "center",
+      "opacity": 1,
+      "paddingVertical": 25.142857142857142,
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "color": "#20303C",
+          "writingDirection": "ltr",
+        },
+        {
+          "fontFamily": "System",
+          "fontSize": 20,
+          "fontWeight": "700",
+          "lineHeight": 24,
+        },
+        {
+          "color": "#FFFFFF",
+        },
+        undefined,
+        undefined,
+        {},
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ]
+    }
+    text60BO={true}
+    white={true}
+  >
+    Test
+  </Text>
+</View>
+`;
